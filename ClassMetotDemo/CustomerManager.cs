@@ -20,7 +20,11 @@ namespace ClassMetotDemo
             var checkCustomer = _customers
                 .Where(i => i.CustomerID == entity.CustomerID)
                 .SingleOrDefault();
-            _customers.Add(entity);
+            if (checkCustomer==null)
+            {
+                _customers.Add(entity);
+            }
+            throw new Exception($"Customer with id - {entity.CustomerID} already exsists");
         }
         public void DeleteCustomer(Customer entity)
         {
