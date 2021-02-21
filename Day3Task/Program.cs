@@ -8,7 +8,7 @@ namespace Day3Task
         {
 
             //ref ile otureceyimiz deyiskeni evvelceden mutleq set etmeliyik
-            //int deyer1Ref = 17;
+            int deyer1Ref = 17;
             int deyer2= 250;
 
             //out ile qeyd olunan zaman, biz evvelceden set etmesekde olar
