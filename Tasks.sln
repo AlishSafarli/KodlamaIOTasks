@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2Task6", "Day2Task6\Day2Task6.csproj", "{C16ECA77-4E4E-451C-816D-A699AD07739E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2_Task6", "Day2Task6\Day2_Task6.csproj", "{C16ECA77-4E4E-451C-816D-A699AD07739E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3Task", "Day3Task\Day3Task.csproj", "{F8087D67-562D-471B-99BE-04F0A56D1139}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3Task", "Day3Task\Day3Task.csproj", "{F8087D67-562D-471B-99BE-04F0A56D1139}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{B8947F12-1E7B-439B-9C4B-89BCE4CFF148}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3_ClassMetotDemo", "ClassMetotDemo\Day3_ClassMetotDemo.csproj", "{B8947F12-1E7B-439B-9C4B-89BCE4CFF148}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
